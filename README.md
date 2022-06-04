@@ -1,4 +1,4 @@
-## Infinity Logger
+## Solaris
 Custom Logger used by most of our Websites and Services.
 
 ---
