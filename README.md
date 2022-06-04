@@ -1,2 +1,7 @@
-## Custom Logger for Infinity Bot List
-Not a Public Module. No docs available!
+## Infinity Logger
+Custom Logger used by most of our Websites and Services.
+
+---
+
+## Stay Tuned
+More info and instructions coming soon.
